@@ -291,6 +291,9 @@ textarea {
   .menu ul {
     grid-template-columns: none;
   }
+  #mapid {
+    height: 300px;
+  }
   .address{
     margin-left: 0px;
   }
